@@ -5,4 +5,4 @@ git remote add upstream https://github.com/AlexanderChiuluvB/SecondHandMallFudan
 git fetch upstream
 
 在自己开发的分支
-git merge main
+git merge master
